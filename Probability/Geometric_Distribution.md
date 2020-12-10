@@ -24,4 +24,4 @@ $$
 $$
 Var(X)=\frac{1-p}{p^2}
 $$
-
+https://latex.codecogs.com/gif.latex?\\sum_{i=0}^n
